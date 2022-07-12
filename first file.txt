@@ -1,2 +1,2 @@
 In the beginning. Edited in remote.
-Created new branch develop-01.
+Created new branch Develop.
