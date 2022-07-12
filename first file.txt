@@ -1,3 +1,2 @@
-In the beginning. Edited locally in develop-01.
-Created new branch with name develop-01.
-Added a new line from dev-01.
+In the beginning. Edited in remote.
+Created new branch Develop.
