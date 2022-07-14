@@ -6,3 +6,4 @@ Second commit to revert.
 Third commit to revert.
 
 New line after merge 01.
+New line after merge 02.
