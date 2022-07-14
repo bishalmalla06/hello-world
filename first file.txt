@@ -11,4 +11,8 @@ New line thats edited after merge 02.
 New line after rebase branch created.
 New line 02 after rebase branch created.
 
+<<<<<<< HEAD
 Added a line to cherry-pick.
+=======
+Added a line to cherry-pick.
+>>>>>>> develop-01
