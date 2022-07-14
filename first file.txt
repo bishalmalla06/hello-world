@@ -7,3 +7,5 @@ Third commit to revert.
 
 New line after merge 01.
 New line after merge 02.
+
+New line after rebase branch created.
